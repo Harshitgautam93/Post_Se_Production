@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <AppBar position="static">
       <Toolbar>
-        <Typography variant="h6">Social to Amazon Converter</Typography>
+        <Typography variant="h6">Post-Se-Product</Typography>
       </Toolbar>
     </AppBar>
   );
