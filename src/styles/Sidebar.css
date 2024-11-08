@@ -1,0 +1,28 @@
+/* src/styles/Sidebar.css */
+
+.sidebar {
+    width: 200px;
+    background-color: #333;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  .sidebar .MuiList-root {
+    width: 100%;
+  }
+  
+  .sidebar .MuiListItem-root {
+    padding: 10px 15px;
+    border-radius: 4px;
+  }
+  
+  .sidebar .MuiListItem-root:hover {
+    background-color: #444;
+  }
+  
+  .sidebar .MuiListItemText-root {
+    color: white;
+  }
+  

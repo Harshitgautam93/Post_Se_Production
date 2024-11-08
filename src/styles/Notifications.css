@@ -1,0 +1,11 @@
+/* src/styles/Notifications.css */
+
+.notifications {
+    padding: 20px;
+  }
+  
+  .notifications p {
+    color: #666;
+    font-size: 16px;
+  }
+  

@@ -1,0 +1,16 @@
+/* src/styles/ListingEditor.css */
+
+.listing-editor {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .listing-editor .MuiTextField-root {
+    margin-top: 20px;
+  }
+  
+  .listing-editor .MuiButton-root {
+    margin-top: 20px;
+  }
+  

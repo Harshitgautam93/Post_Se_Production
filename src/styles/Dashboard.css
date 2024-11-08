@@ -1,0 +1,11 @@
+/* src/styles/Dashboard.css */
+
+.dashboard {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .dashboard button {
+    margin: 10px;
+  }
+  
